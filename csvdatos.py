@@ -118,4 +118,4 @@ dicc = abrir_csv(archivo)
 
 
 print(menu(archivo))
-#1427
+#142
